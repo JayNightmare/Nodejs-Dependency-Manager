@@ -37,6 +37,6 @@
         "terminal.ansiRed": "#EA51B2",
         "terminal.ansiWhite": "#E9E9F4",
         "terminal.ansiYellow": "#00F769",
-        "statusBar.background": "#000000"
+        "statusBar.background": "#8a000e"
     }
 }
