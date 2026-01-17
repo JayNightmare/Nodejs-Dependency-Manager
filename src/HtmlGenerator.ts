@@ -244,7 +244,7 @@ export class HtmlGenerator {
                             const isInstalled = allDependencies.some(d => d.name === res.name);
                             const actionHtml = isInstalled 
                                 ? '<span style="font-size: 0.8em; opacity: 0.7; margin-right: 10px;">Installed</span>' 
-                                : `<button class="install-btn" data-name="${res.name}">Install</button>`;
+                                : \`<button class="install-btn" data-name="\${res.name}">Install</button>\`;
 
                             item.innerHTML = \`
                                 <div class="dep-info">
