@@ -1,7 +1,7 @@
 {
     "name": "nodejs-dependency-manager",
     "displayName": "Nodejs Dependency Manager",
-    "description": "See what packages need to be updated#",
+    "description": "Manage your Node.js dependencies directly from VS Code. This extension provides a convenient sidebar view to explore, update, and install npm packages",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.104.0"
